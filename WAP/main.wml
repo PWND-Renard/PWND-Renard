@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.2//EN"
+"http://www.wapforum.org/DTD/wml12.dtd">
+
+<wml>
+
+<card id="one" title="Bienvenue">
+<p>
+Ceci est un test pour un futur site pour appareils mobiles.
+
+</p>
+</card>
+
+<card id="two" title="PWND Renard">
+<p>
+Est-ce que ça fonctionne?
+</p>
+</card>
+
+</wml>
