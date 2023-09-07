@@ -5,11 +5,18 @@
 
 <wml>
 
-<card id="one" title="Bienvenue">
+<card id="one" title="PWND Renard">
 <p>
-Ceci est un test pour un futur site pour appareils mobiles.
+Bienvenue sur le site mobile de PWND Renard!
 
 </p>
+
+<p>
+	Options:
+	<a href="art.wml">Art</a>
+	<a href="photo.wml">Photographie</a>
+</p>
+
 </card>
 
 <card id="two" title="PWND Renard">
