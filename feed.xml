@@ -1,0 +1,26 @@
+ <?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>PWND Renard - Bandes dessinées</title>
+  <link>http://www.pwndrenard.net/bd.htm</link>
+  <description>Les bandes dessinées de PWND Renard. Ce flux RSS est présentement en bêta. Il se peut qu'il ait des problèmes.</description>
+  <language>fr-ca</language>
+  <item>
+    <title>Page 3: Les toilettes publiques</title>
+    <link>http://www.pwndrenard.net/bd.htm</link>
+    <description>Ne bouge surtout pas</description>
+  </item>
+  <item>
+    <title>Page 2: Cauchemar</title>
+    <link>http://www.pwndrenard.net/bd/00002.htm</link>
+    <description>J'ai mal aux oreilles</description>
+  </item>
+  <item>
+    <title>Page 1: La boîte de conserve</title>
+    <link>http://www.pwndrenard.net/bd/00001.htm</link>
+    <description>Première page!</description>
+  </item>
+</channel>
+
+</rss>
