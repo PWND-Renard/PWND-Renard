@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>PWND Renard - Nouvelles</title>
+  <link>http://www.pwndrenard.net/bd.htm</link>
+  <description>Lire les nouvelles du site PWND Renard.</description>
+  <language>fr-ca</language>
+  <item>
+    <title>Nouveau flux RSS et nouvelle animation</title>
+    <link>http://www.pwndrenard.net/mm/animations.htm</link>
+    <description>Voici le flux RSS pour retrouver les nouvelles du site! Veuillez noter que ce flux n'est pas le même que le flux de bandes-dessinées. Aussi, j'ai ajouté une animation dans la section multimédia. Finallement, je vais bientôt commencer à traduire mes bandes-dessinées en anglais.</description>
+  </item>
+  <item>
+    <title>Bienvenue au site!</title>
+    <link>http://www.pwndrenard.net/</link>
+    <description>Bienvenue sur PWND Renard!</description>
+  </item>
+</channel>
+
+</rss>
