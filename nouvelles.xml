@@ -7,6 +7,11 @@
   <description>Lire les nouvelles du site PWND Renard.</description>
   <language>fr-ca</language>
   <item>
+    <title>Corrections de bugs!</title>
+    <link>http://www.pwndrenard.net/</link>
+    <description>Vous avez probablement remarqué quelques bugs un peu partout sur le site. En gros, c'était une question de compatibilité. Plusieurs pages affichaient des charactères étranges là où se trouvait des lettres avec accents. Mais je pense avoir tout corrigé! </description>
+  </item>
+  <item>
     <title>Nouveau flux RSS et nouvelle animation</title>
     <link>http://www.pwndrenard.net/mm/animations.htm</link>
     <description>Voici le flux RSS pour retrouver les nouvelles du site! Veuillez noter que ce flux n'est pas le même que le flux de bandes-dessinées. Aussi, j'ai ajouté une animation dans la section multimédia. Finallement, je vais bientôt commencer à traduire mes bandes-dessinées en anglais.</description>
