@@ -7,6 +7,11 @@
   <description>Lire les nouvelles du site PWND Renard.</description>
   <language>fr-ca</language>
   <item>
+    <title>Nouvelle page: personnages de BD</title>
+    <link>http://www.pwndrenard.net/bd/personnages.htm</link>
+    <description>Vous pouvez finalement voir la liste de personnages de ma BD. En même temps j'ai finallement ajouté des dessins (il était temps!). Aussi: correction de bugs.</description>
+  </item>
+  <item>
     <title>Corrections de bugs!</title>
     <link>http://www.pwndrenard.net/</link>
     <description>Vous avez probablement remarqué quelques bugs un peu partout sur le site. En gros, c'était une question de compatibilité. Plusieurs pages affichaient des charactères étranges là où se trouvait des lettres avec accents. Mais je pense avoir tout corrigé! </description>
