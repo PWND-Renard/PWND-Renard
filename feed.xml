@@ -7,13 +7,18 @@
   <description>Les bandes dessinées de PWND Renard. Ce flux RSS est présentement en bêta. Il se peut qu'il ait des problèmes.</description>
   <language>fr-ca</language>
   <item>
+    <title>Page 4: Étourdissement</title>
+    <link>https://www.pwndrenard.net/bd.htm</link>
+    <description>Partie 1 sur 2</description>
+  </item>
+  <item>
     <title>Nouvelle page sur les personnages</title>
     <link>http://www.pwndrenard.net/bd/personnages.htm</link>
     <description>Finalement, une liste de personnages! Eh oui, plus de personnages sont à venir bientôt.</description>
   </item>
   <item>
     <title>Page 3: Les toilettes publiques</title>
-    <link>http://www.pwndrenard.net/bd.htm</link>
+    <link>http://www.pwndrenard.net/bd/00003.htm</link>
     <description>Ne bouge surtout pas</description>
   </item>
   <item>
