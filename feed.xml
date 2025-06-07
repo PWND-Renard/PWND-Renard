@@ -7,6 +7,11 @@
   <description>Les bandes dessinées de PWND Renard. Ce flux RSS est présentement en bêta. Il se peut qu'il ait des problèmes.</description>
   <language>fr-ca</language>
   <item>
+    <title>Nouveau Flash: Le Futur</title>
+    <link>http://www.pwndrenard.net/mm/animations/futur.htm</link>
+    <description>Une parodie de Kitty Bobo!</description>
+  </item>
+  <item>
     <title>Nouveau Flash: La Route</title>
     <link>http://www.pwndrenard.net/mm/animations/route.htm</link>
     <description>Ça fait longtemps que je n'ai pas fait une mise à jour sur mon site. Mais ne vous inquiétez pas, je ne l'ai pas oublié! Voici (finalement) un nouveau Flash.</description>

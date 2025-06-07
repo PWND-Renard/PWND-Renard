@@ -7,6 +7,11 @@
   <description>Lire les nouvelles du site PWND Renard.</description>
   <language>fr-ca</language>
   <item>
+    <title>Nouveau Background!</title>
+    <link>http://www.pwndrenard.net/</link>
+    <description>Tu remarqueras de la nouvelle décoration sur l'arrière plan de certaines pages! Je ne l'ai pas appliqué sur tous les pages encore car je suis paresseux :P</description>
+  </item>
+  <item>
     <title>Nouvelle page: personnages de BD</title>
     <link>http://www.pwndrenard.net/bd/personnages.htm</link>
     <description>Vous pouvez finalement voir la liste de personnages de ma BD. En même temps j'ai finallement ajouté des dessins (il était temps!). Aussi: correction de bugs.</description>
